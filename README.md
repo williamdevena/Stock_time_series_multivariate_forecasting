@@ -1,7 +1,7 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=9481312&assignment_repo_type=AssignmentRepo)
 # Data Acquisition and Processing Systems (DAPS) (ELEC0136)
 
-This repo contains the code and report produces for the assingment of Data Acquisition and Processing Systems (DAPS) module.
+This repo contains the code and report produces for the assignment of Data Acquisition and Processing Systems (DAPS) module.
 More details about the assignment in the file "DAPS Assignment_2022_2023.pdf".
 
 ## How to run the code
