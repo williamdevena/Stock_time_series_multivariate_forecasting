@@ -2,7 +2,7 @@
 # Data Acquisition and Processing Systems (DAPS) (ELEC0136)
 
 
-![My Image](timseries_forecast.gif)
+![My Image](img_timeseries.jpeg)
 
 This repo contains the code and report (**Report_DAPS.pdf**) produces for the assignment of Data Acquisition and Processing Systems (DAPS) module.
 More details about the assignment in the file **"DAPS Assignment_2022_2023.pdf"**.
